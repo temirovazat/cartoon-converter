@@ -10,11 +10,11 @@ pinned: false
 license: gpl-3.0
 ---
 
-## Cartoon Face Converter
+# Cartoon Face Converter
 
 This is a Gradio demo for the Cartoon Face Converter, which can cartoonify images using OpenCV or the AnimeGANv2 model. The demo allows users to upload an image and select a method for cartoonification, and outputs the resulting cartoonified image.
 
-### Installation
+## Installation
 
 1. Clone the repository: 
 ```bash
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### Commands in the Makefile
+## Commands in the Makefile
 
 * Watch commands in the Makefile
 
@@ -69,7 +69,7 @@ make deactivate
 ```
 
 
-### Requirements
+## Requirements
 
 To run the demo, you need to install the following packages:
 
@@ -83,7 +83,7 @@ To run the demo, you need to install the following packages:
 - `cmake`
 - `onnxruntime-gpu`
 
-### Acknowledgments
+## Acknowledgments
 
 The Cartoon Face Converter demo uses the following tools and libraries:
 
@@ -91,6 +91,6 @@ The Cartoon Face Converter demo uses the following tools and libraries:
 - [OpenCV](https://opencv.org)
 - [AnimeGANv2](https://github.com/TachibanaYoshino/AnimeGANv2)
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
