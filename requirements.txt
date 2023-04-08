@@ -1,0 +1,14 @@
+torch
+torchvision
+Pillow
+gdown
+numpy
+scipy
+cmake
+opencv-python
+onnxruntime-gpu
+black
+isort
+bandit
+mypy
+flake8

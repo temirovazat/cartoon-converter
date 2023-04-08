@@ -1,0 +1,28 @@
+[tool.poetry]
+name = "cartoon-converter"
+version = "0.1.0"
+description = ""
+authors = ["temirovazat <azatbekt5@gmail.com>"]
+readme = "README.md"
+packages = [{include = "cartoon_converter"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+torch = "^2.0.0"
+torchvision = "^0.15.1"
+pillow = "^9.5.0"
+gdown = "^4.7.1"
+numpy = "^1.24.2"
+cmake = "^3.26.1"
+opencv-python = "^4.7.0.72"
+gradio = "^3.24.1"
+utils = "^1.0.1"
+black = "^23.3.0"
+isort = "^5.12.0"
+bandit = "^1.7.5"
+flake8 = "^6.0.0"
+mypy = "^1.2.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
