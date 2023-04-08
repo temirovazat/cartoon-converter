@@ -1,6 +1,7 @@
 import os
-import torch
+
 import gradio as gr
+import torch
 
 
 def download_sample_images():
@@ -90,4 +91,4 @@ if __name__ == "__main__":
         theme="huggingface",
         examples=examples,
         allow_flagging=False,
-    ).launch(share=True, inbrowser=True, debug=True)
+    ).launch()
