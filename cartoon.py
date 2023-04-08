@@ -3,7 +3,8 @@ from pathlib import Path
 
 import cv2
 
-from utils import read_img, edge_detection, color_quantisation
+from utils import color_quantisation, edge_detection, read_img
+
 
 LINE_WIDTH = 9
 BLUR_VALUE = 7
