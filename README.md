@@ -50,26 +50,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-## Commands in the Makefile
-
-* Watch commands in the Makefile
-
-```bash
-make help
-```
-
-* Install the dependencies
-
-```bash
-make install
-```
-
-* Run the app
-
-```bash
-make run
-```
-
 * Activate the virtual environment
 
 ```bash
@@ -107,4 +87,4 @@ The Cartoon Face Converter demo uses the following tools and libraries:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/temirovazat/cartoon-converter/blob/main/LICENSE).
