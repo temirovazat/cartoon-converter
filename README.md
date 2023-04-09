@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 3. Run the Gradio interface: 
 ```bash
-python app.py
+python src/app.py
 ```
 
 
