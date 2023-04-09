@@ -50,18 +50,6 @@ pip install -r requirements.txt
 python app.py
 ```
 
-* Activate the virtual environment
-
-```bash
-make activate
-```
-
-* Deactivate the virtual environment
-
-```bash
-make deactivate
-```
-
 
 ## Requirements
 
