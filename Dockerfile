@@ -15,4 +15,4 @@ RUN pip install --default-timeout=1000 poetry \
   && sed -e "s/Skipping virtualenv creation, as specified in config file.//g" -i requirements.txt\
   && pip install --default-timeout=1000 -r requirements.txt
 
-ENTRYPOINT ["python3", "/app/app.py"] 
+ENTRYPOINT ["python3", "/app/src/app.py"] 
