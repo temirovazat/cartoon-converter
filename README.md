@@ -10,7 +10,7 @@ pinned: false
 license: gpl-3.0
 ---
 
-# Cartoon Face Converter
+# Cartoon Face Converter 🎭
 
 This is a Gradio demo for the Cartoon Face Converter, which can cartoonify images using OpenCV or the AnimeGANv2 model. The demo allows users to upload an image and select a method for cartoonification, and outputs the resulting cartoonified image. 😍
 
