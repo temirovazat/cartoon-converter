@@ -818,14 +818,14 @@ gitdb = ">=4.0.1,<5"
 
 [[package]]
 name = "gradio"
-version = "3.28.0"
+version = "3.28.2"
 description = "Python library for easily interacting with trained machine learning models"
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "gradio-3.28.0-py3-none-any.whl", hash = "sha256:03b13471d5eec1f4380352ab37c2517464fca8f06e1a9832276fb585b90fcb88"},
-    {file = "gradio-3.28.0.tar.gz", hash = "sha256:89425b1b2a95bd586c963a9753c946c5d67d696e26d265e0abfd48918d48b42a"},
+    {file = "gradio-3.28.2-py3-none-any.whl", hash = "sha256:a28a7c9bccaa7662ceb08902586847e23431a69a304d14334ea290da5eb740df"},
+    {file = "gradio-3.28.2.tar.gz", hash = "sha256:93d0d0e70e7129c38980a989aa45ee7ce4b3b7fa1e6b326c024323e3a54e24ea"},
 ]
 
 [package.dependencies]
@@ -848,6 +848,7 @@ pandas = "*"
 pillow = "*"
 pydantic = "*"
 pydub = "*"
+pygments = ">=2.12.0"
 python-multipart = "*"
 pyyaml = "*"
 requests = "*"
