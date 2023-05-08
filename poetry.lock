@@ -818,14 +818,14 @@ gitdb = ">=4.0.1,<5"
 
 [[package]]
 name = "gradio"
-version = "3.28.2"
+version = "3.28.3"
 description = "Python library for easily interacting with trained machine learning models"
 category = "main"
 optional = false
 python-versions = ">=3.7"
 files = [
-    {file = "gradio-3.28.2-py3-none-any.whl", hash = "sha256:a28a7c9bccaa7662ceb08902586847e23431a69a304d14334ea290da5eb740df"},
-    {file = "gradio-3.28.2.tar.gz", hash = "sha256:93d0d0e70e7129c38980a989aa45ee7ce4b3b7fa1e6b326c024323e3a54e24ea"},
+    {file = "gradio-3.28.3-py3-none-any.whl", hash = "sha256:327b41ad5432c5fa95b35517ca78ea423517f33ec7a8489d51bb73eff0086e1a"},
+    {file = "gradio-3.28.3.tar.gz", hash = "sha256:88aa9242516101063baa60fb6ecadb51697454523a06b6365c30006d5ba6c596"},
 ]
 
 [package.dependencies]
